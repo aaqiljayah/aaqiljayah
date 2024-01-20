@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>HTML and CSS</b>
+  - [Portfolio Website](https://aaqiljayah.github.io)
 
 <h2> 🤳 Connect with me:</h2>
 
