@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML and CSS</b>
-  - [Portfolio Website](https://github.com/aaqiljayah/aaqiljayah.github.io)
+  - [Portfolio Website](https://aaqiljayah.ct.ws/)
 
 <h2> 🤳 Connect with me:</h2>
 
