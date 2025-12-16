@@ -5,7 +5,7 @@
 - <b>HTML and CSS</b>
   - [Portfolio Website](https://aaqiljayah.ct.ws/)
 - <b>Java</b>
-  - [Food Ordering System]([https://aaqiljayah.ct.ws/](https://github.com/aaqiljayah/foodorderingsystem))
+  - [Food Ordering System](https://github.com/aaqiljayah/foodorderingsystem)
 
 <h2> 🤳 Connect with me:</h2>
 
