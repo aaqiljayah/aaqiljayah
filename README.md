@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/aaqiljayah">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
   </a>
   <a href="https://www.instagram.com/itsaaqil/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/>
