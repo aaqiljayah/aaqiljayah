@@ -102,7 +102,7 @@ Cybersecurity Undergraduate & Full-Stack Developer passionate about building sec
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaqiljayah&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqiljayah&layout=compact&theme=dark&hide_border=true" />
@@ -132,4 +132,4 @@ Cybersecurity Undergraduate & Full-Stack Developer passionate about building sec
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaqiljayah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
