@@ -91,7 +91,7 @@ Cybersecurity Undergraduate & Full-Stack Developer passionate about building sec
 **Technologies:** HTML, CSS, JavaScript, React
 - Modern, responsive portfolio showcasing skills and projects
 - Clean design with smooth animations and interactions
-- [Live Demo](https://aaqiljayah.ct.ws/) • [Source Code](https://github.com/aaqiljayah/portfolio)
+- [Live Demo](https://aaqiljayah.ct.ws/) • [Source Code](https://github.com/aaqiljayah/portfolio-website)
 
 ### 🍽️ Food Ordering System
 **Technologies:** Java, MySQL, OOP Principles
