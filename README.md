@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aaqiljayah.ct.ws/">
+  <a href="http://aaqil.rf.gd/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="mailto:jayahaaqil@gmail.com">
