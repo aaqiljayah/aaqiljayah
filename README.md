@@ -91,14 +91,15 @@ Cybersecurity Undergraduate & Full-Stack Developer passionate about building sec
 **Technologies:** HTML, CSS, JavaScript, React
 - Modern, responsive portfolio showcasing skills and projects
 - Clean design with smooth animations and interactions
-- [Live Demo](https://aaqiljayah.ct.ws/) • [Source Code](https://github.com/aaqiljayah/portfolio-website)
+- [Live Demo](https://aaqil.rf.gd/) • [Source Code](https://github.com/aaqiljayah/portfolio-website)
 
-### 🍽️ Food Ordering System
-**Technologies:** Java, MySQL, OOP Principles
-- Full-featured restaurant management system
-- Database integration with MySQL
-- Object-oriented design patterns
-- [GitHub Repository](https://github.com/aaqiljayah/foodorderingsystem)
+### 🎮 Thornbound — A Dark Fantasy Chronicle
+**Technologies:**  HTML, CSS, JavaScript, React, OpenRouter API
+- AI-powered dark fantasy text RPG with a living, reactive narrative
+- Six unique endings determined entirely by your choices across four political eras
+- Dynamic NPC trust system, stat-driven story branching, and persistent legacy across runs
+- Ambient music system, interactive realm map, and full save/load via localStorage
+- [Live Demo](https://aaqiljayah.github.io/thornbound/) • [Source Code](https://github.com/aaqiljayah/thornbound)
 
 ---
 
