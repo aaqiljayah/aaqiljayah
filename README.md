@@ -11,7 +11,7 @@
   <a href="http://aaqil.rf.gd/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="mailto:jayahaaqil@gmail.com">
+  <a href="mailto:aaqiljayah@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/aaqiljayah">
